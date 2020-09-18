@@ -7,6 +7,12 @@ such as **conference, title, abstract**，which can be written in the form of [m
 **Time**: 18:00-20:00  Welcome to attend the seminar!
 
 <p><font size="5" face="arial" color="red">Attention</font></p>
+```diff
+- red
++ green
+! orange
+# gray
+```
 
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
