@@ -4,7 +4,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 
 **Location**： Zetonglou 104 or DingTalk
 
-**Time**: 18:00-20:00  Welcome to attend the seminar!
+**Time**: Friday 18:00-20:00  Welcome to attend the seminar!
 
 
 ```diff
